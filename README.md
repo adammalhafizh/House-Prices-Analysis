@@ -2,6 +2,10 @@
 
 This project analyze the factors that can affect house prices. The analysis includes defining the SMART analysis, the problems, and then finally giving insight and actiobale recommendation
 
+# Link Dashboard
+
+https://public.tableau.com/views/P1M2_MuhammadAdam/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 # Data
 
 - House_Price_Dataset: All the information about previous sold houses
