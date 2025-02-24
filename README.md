@@ -28,10 +28,9 @@ This notebook is devided to several sections:
 # Installation
 
 To run this notebook, you need to install several Python libraries.
-
-    ```py
-    pip install pandas numpy seaborn matplotlib scikit-learn scipy
-    ```
+```py
+pip install pandas numpy seaborn matplotlib scikit-learn scipy
+```
 
 # How to Run
 
